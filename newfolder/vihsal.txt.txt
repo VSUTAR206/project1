@@ -1,0 +1,18 @@
+1. new repository - new folder 
+2. commit - save 
+3. fork - complete copy
+4. gitub issue - complaint
+
+*
+ 
+
+
+
+
+1.git initn - initialize folder
+2.git status - pending in stag
+3.git commit -m "all chages done"  - (satgging area)
+4.git push - git push -u origin master
+
+
+5.copy project address : git remote add origin https://github.com/VSUTAR206/project1.git
